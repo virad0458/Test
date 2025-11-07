@@ -1,3 +1,4 @@
+import "./web.css";
 import LitPathAI from "./Test";
 
 function App() {
